@@ -1,3 +1,3 @@
 ## Привет - я студентка 4 курса
 
-https://icons8.ru/icon/13441/python
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
